@@ -6,3 +6,20 @@
     --team-main:#F5F4FA;
     --mareting-main:#757575;
 }
+
+
+
+.portfolio-list{
+    display: flex;
+    width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+    height: 1272px;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+
+.portfolio-item li{
+    width: 370px;
+    height: 404px;
+}
